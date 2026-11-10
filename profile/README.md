@@ -27,4 +27,4 @@ Developed by researchers at TU Berlin and hosted within the [oemof](https://gith
 **EnClim – Energy Engineering and Climate Protection**  
 Technische Universität Berlin, Germany
 
-[Research areas and activities](https://www.tu.berlin/energietechnik/forschung)
+[Research areas and activities – TU Berlin](https://www.tu.berlin/en/energietechnik/research)

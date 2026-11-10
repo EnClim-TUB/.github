@@ -1,4 +1,4 @@
-# EnClim | Energy Engineering and Climate Protection
+# EnClim | Chair of Energy Engineering and Climate Protection
 
 **Technische Universität Berlin | Institute of Energy Engineering**
 

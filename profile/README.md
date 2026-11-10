@@ -14,7 +14,7 @@ Through open-source software development, we aim to make advanced scientific met
 
 ### [ExerPy – Exergy-Based Analyses in Python](https://github.com/oemof/exerpy)
 
-ExerPy is an open-source Python framework for **automated exergy and exergoeconomic analysis of energy-conversion systems**, with ongoing development toward integrated exergoenvironmental assessment using life cycle assessment (LCA).
+ExerPy is an open-source Python framework for **automated exergy and exergoeconomic analyses of energy-conversion systems**, with ongoing development toward integrated exergoenvironmental assessment using life cycle assessment (LCA).
 
 By interfacing with simulation tools such as TESPy, Ebsilon Professional, and Aspen Plus, ExerPy streamlines data processing and thermodynamic analyses, substantially reducing manual effort and the risk of user errors. Its standardized workflows enable consistent, reproducible assessments across different simulation platforms.
 
